@@ -1,0 +1,13 @@
+.click-on {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+#first_button {
+  background-color: rgba(0, 0, 0);
+  color: rgba(255, 255, 255);
+}
+
+#second_button {
+  background-color: rgba(255, 200, 100);
+}
